@@ -1,0 +1,10 @@
+@import "../_variables.scss";
+@import "../_mixins.scss";
+
+#example{
+	background: $dark-red;
+
+	h1{
+		padding: $padding-lg;
+	}
+}
